@@ -1,5 +1,5 @@
 import streamlit as st
-
+import pandas as pd
 def main():
     st.title('웹 대시보드')
 
@@ -18,5 +18,6 @@ def main():
 
 
 if __name__=='__main__':
+
 
     main()
